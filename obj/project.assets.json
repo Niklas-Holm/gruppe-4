@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niklasholm/RiderProjects/Gruppe-4-test-git/Gruppe-4-test-git/Gruppe-4-test-git.csproj",
+      "projectUniqueName": "/Users/niklasholm/Desktop/git-repos/gruppe4-test/Gruppe-4-test-git.csproj",
       "projectName": "Gruppe-4-test-git",
-      "projectPath": "/Users/niklasholm/RiderProjects/Gruppe-4-test-git/Gruppe-4-test-git/Gruppe-4-test-git.csproj",
+      "projectPath": "/Users/niklasholm/Desktop/git-repos/gruppe4-test/Gruppe-4-test-git.csproj",
       "packagesPath": "/Users/niklasholm/.nuget/packages/",
-      "outputPath": "/Users/niklasholm/RiderProjects/Gruppe-4-test-git/Gruppe-4-test-git/obj/",
+      "outputPath": "/Users/niklasholm/Desktop/git-repos/gruppe4-test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/niklasholm/.nuget/NuGet/NuGet.Config"
