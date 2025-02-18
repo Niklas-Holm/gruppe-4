@@ -7,6 +7,8 @@ Console.WriteLine($"Hello, {name}!");
 
 Console.WriteLine("Amanda var her");
 
+Console.WriteLine("Gavin var her babyyyyyyy :D");
+
 Console.Write("What is your name? ");
 string age = Console.ReadLine();
 
