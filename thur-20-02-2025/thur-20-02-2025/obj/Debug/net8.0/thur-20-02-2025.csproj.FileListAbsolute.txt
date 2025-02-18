@@ -1,0 +1,15 @@
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/bin/Debug/net8.0/thur-20-02-2025
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/bin/Debug/net8.0/thur-20-02-2025.deps.json
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/bin/Debug/net8.0/thur-20-02-2025.runtimeconfig.json
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/bin/Debug/net8.0/thur-20-02-2025.dll
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/bin/Debug/net8.0/thur-20-02-2025.pdb
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.AssemblyInfoInputs.cache
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.AssemblyInfo.cs
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.csproj.CoreCompileInputs.cache
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.sourcelink.json
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.dll
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/refint/thur-20-02-2025.dll
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.pdb
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/thur-20-02-2025.genruntimeconfig.cache
+/Users/niklasholm/Desktop/git-repos/gruppe-4/thur-20-02-2025/thur-20-02-2025/obj/Debug/net8.0/ref/thur-20-02-2025.dll
