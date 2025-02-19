@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
             //Input & string variables
+
+
+            //Det er Sylwesters nye branch
+
+
             Console.WriteLine("Input brand");
             string? brand = Console.ReadLine();
 
